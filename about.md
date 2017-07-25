@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm Parker Thompson, a 16 year old highschool student with a passion for film photography, design, and business. I mainly use this blog to put down my inner musings or share my projects/ideas/work. Check out my friend Nicholas's blog [here](blog.nermolov.com).
 
-### More Information
+### Mail me.
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[thompson4parker@gmail.com](mailto:thompson4parker@gmail.com)
