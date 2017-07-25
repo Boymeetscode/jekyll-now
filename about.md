@@ -4,8 +4,15 @@ title: About
 permalink: /about/
 ---
 
-I'm Parker, a sixteen year old highschool student with a passion for film photography, design, and business. I mainly use this blog to put down my inner musings or share my projects/ideas/work. Check out my friend Nicholas's blog [here](http://blog.nermolov.com).
+This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
-### Mail me.
+You can find the source code for Minima at GitHub:
+[jekyll][jekyll-organization] /
+[minima](https://github.com/jekyll/minima)
 
-[thompson4parker@gmail.com](mailto:thompson4parker@gmail.com)
+You can find the source code for Jekyll at GitHub:
+[jekyll][jekyll-organization] /
+[jekyll](https://github.com/jekyll/jekyll)
+
+
+[jekyll-organization]: https://github.com/jekyll
