@@ -13,4 +13,5 @@ I picked up film photography as a main hobby and I've actually really enjoyed th
 
 School is quickly approaching in less than 4 days and I'm actually kind of looking forward to it. I'm thinking it should help keep me occupied as I'm really not doing much else; at it's core I think that's the real problem. I've always felt the need to be doing something worth talking about and am having to come to terms that I will not always have something to occupy me.
 
-Note: If this post is riddled with errors, I apologize. I wrote it at 1am.
+
+Note: Honeslty, this was nothing but me ranting about silly thoughts. If this post is riddled with errors, I apologize. I wrote it at 1am.
