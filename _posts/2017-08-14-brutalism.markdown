@@ -1,5 +1,3 @@
-
-
 ---
 layout: post
 title:  "Brutalism reached the web and I love it."
