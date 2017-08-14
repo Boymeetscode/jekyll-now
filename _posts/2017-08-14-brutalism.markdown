@@ -2,7 +2,7 @@
 
 ---
 layout: post
-title:  "Brutalism has come to web design and it's glorious."
+title:  "Brutalism reached the web and I love it."
 date:   2017-07-24 23:34:55 -0500
 categories: General
 ---
