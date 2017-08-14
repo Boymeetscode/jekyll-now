@@ -6,7 +6,6 @@ title:  "Brutalism reached the web and I love it."
 date:   2017-07-24 23:34:55 -0500
 categories: General
 ---
-
 About a year or so ago I developed an affinity for a certain style of web design. It was rugged and raw; nothing like the over loaded, JS lathered websites of today. In saying this I probably sound like an angry, old developer who is fed up with the requirements of modern web design. Though, the truth is these websites remind me of what I love about the web. Anyone with a keyboard and a vision can create something virtually anyone can access.
 
 I recently discovered this style is being classified as Brutalism in web design. After hearing this, it all made sense. This classification stems from the mid-twentieth century architectural style which emphasizes rawness and zero-frills; known simply as Brutalism. Coincidentally, I've also been a long-time admirer of Brutalist architecture. It only makes sense I would be drawn to this trend in web design.
