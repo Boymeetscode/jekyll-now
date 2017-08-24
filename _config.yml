@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Parker Thompson
-description: A boy just trying to meet the world. Discussing photography, design, business, and politics.
+description: Thoughts on photography, design, and my other adventures.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://boymeets.world/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ThompsonParker
