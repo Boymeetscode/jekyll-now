@@ -4,6 +4,11 @@ title:  "My most important realization."
 date:   2017-08-23 23:34:55 -0500
 categories: General
 ---
+![Minolta X-570](http://i.imgur.com/1P6cuvD.jpg)
+###### My trust work horse, the Minolta X-570.
+
+
+
 In the past six months or so I've developed a passion for photography. More specifically, film photography. There is just a certain essence to film and it helps satisfy my, as the Germans say, Sehnsucht for times I have not lived in. Fortunately, the world of film is not lost and there is a large community which validates it's existence today. Though, the main point of this specific post is not to highlight my passion for film photography, but it is to document the realization I had as a relatively new photographer.
 
 Unlike most my passion for photography did not begin when I picked up a camera and felt enormous possibility. It began simply by viewing the works of others. While it may seem stereotypical, when I first laid eyes on Ansel Adam's "Monolith, the Face of Half Dome" I was immediately captivated by it's contrast and incredible range. In fact, captivated does not even begin to describe how I felt. But it was from this moment that I began my descent into photography.
