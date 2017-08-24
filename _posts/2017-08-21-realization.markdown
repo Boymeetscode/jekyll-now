@@ -5,7 +5,7 @@ date:   2017-08-23 23:34:55 -0500
 categories: General
 ---
 ![Minolta X-570](http://i.imgur.com/1P6cuvD.jpg)
-###### My trusty work horse, the Minolta X-570.
+###### My trusty work horse: the Minolta X-570.
 
 
 
